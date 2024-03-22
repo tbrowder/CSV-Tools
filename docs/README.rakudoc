@@ -14,7 +14,22 @@ use CSV::Tools;
 
 =head1 DESCRIPTION
 
-B<CSV::Tools> is ...
+B<CSV::Tools> provides the following program:
+
+=begin item 
+create-csvdb csv=X [...options...]
+=end item
+
+Without options, the program does the following:
+
++ Uses the CSV file name to create names for
+
+- a management program
+- a module in lib
+
+
+Creates a local lib 
+
 
 =head1 AUTHOR
 
