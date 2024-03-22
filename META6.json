@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides Raku programs and routines to manage CSV tables.",
+  "license": "Artistic-2.0",
+  "name": "CSV::Tools",
+  "perl": "6.d",
+  "provides": {
+    "CSV::Tools": "lib/CSV/Tools.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
