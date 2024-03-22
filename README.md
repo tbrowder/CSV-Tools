@@ -15,7 +15,17 @@ use CSV::Tools;
 DESCRIPTION
 ===========
 
-**CSV::Tools** is ...
+**CSV::Tools** provides the following program:
+
+  * create-csvdb csv=X [...options...]
+
+Without options, the program does the following:
+
++ Uses the CSV file name to create names for
+
+- a management program - a module in lib
+
+Creates a local lib 
 
 AUTHOR
 ======
