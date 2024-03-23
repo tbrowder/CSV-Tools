@@ -6,6 +6,8 @@
   "build-depends": [
   ],
   "depends": [
+    "YAMLish",
+    "Text::Utils"
   ],
   "description": "Provides Raku programs and routines to manage CSV tables.",
   "license": "Artistic-2.0",
