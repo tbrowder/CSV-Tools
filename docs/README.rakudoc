@@ -40,17 +40,6 @@ bin: <desired management file name> # this file will be placed
                                     # directory
 =end code
 
-Without options, the program does the following:
-
-+ Uses the CSV file name to create names for
-
-- a management program
-
-- a module in ./lib which is used by the generated program
-
-Options include allowing: customization with a YAML configuration
-file.
-
 =head1 AUTHOR
 
 Tom Browder <tbrowder@acm.org>

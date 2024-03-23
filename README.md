@@ -32,16 +32,6 @@ For customized names, use a YAML configuration file with the following format:
                                         # in the user's $HOME/.raku/bin
                                         # directory
 
-Without options, the program does the following:
-
-+ Uses the CSV file name to create names for
-
-- a management program
-
-- a module in ./lib which is used by the generated program
-
-Options include allowing: customization with a YAML configuration file.
-
 AUTHOR
 ======
 
